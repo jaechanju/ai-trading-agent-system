@@ -67,9 +67,9 @@ This system translates trading intuition into structured, repeatable decision pr
 
 ## Example Output
 
-<img width="1594" height="767" alt="1" src="https://github.com/user-attachments/assets/579998a7-d151-4392-8e5b-a0e9e46e4c59" />
 <img width="1563" height="886" alt="5" src="https://github.com/user-attachments/assets/77660c75-29df-46ce-a14d-72ece7bed19e" />
 <img width="1500" height="832" alt="4" src="https://github.com/user-attachments/assets/7654bc13-ecb3-45e1-b031-8c12fb198338" />
+<img width="1594" height="767" alt="1" src="https://github.com/user-attachments/assets/579998a7-d151-4392-8e5b-a0e9e46e4c59" />
 <img width="1560" height="794" alt="3" src="https://github.com/user-attachments/assets/01293aa2-3588-4158-a375-dc3b48458a30" />
 <img width="1553" height="582" alt="2" src="https://github.com/user-attachments/assets/263ce312-bd05-4a35-b518-e447e8d7712f" />
 
