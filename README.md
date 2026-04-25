@@ -103,3 +103,11 @@ This system attempts to model that interaction.
 * Automate data ingestion
 
 ---
+
+## Related Repositories
+
+- [Quant Research Notes](https://github.com/jaechanju/quant-research-notes)
+- [Alpha Signal Library](https://github.com/jaechanju/alpha-signal-library)
+- [Trading Risk Management](https://github.com/jaechanju/trading-risk-management)
+- [Ratio Spread Strategy](https://github.com/jaechanju/ratio-spread-strategy)
+- [Scalping Strategy](https://github.com/jaechanju/scalping-strategy)
